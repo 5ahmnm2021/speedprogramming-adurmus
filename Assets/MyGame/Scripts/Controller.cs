@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class SceneChange : MonoBehaviour
 {
 
-    public void ChangeScenetoFrage()
+    public void ChangeScenetoFrage2()
     {
         SceneManager.LoadScene("01Frage2");
 
